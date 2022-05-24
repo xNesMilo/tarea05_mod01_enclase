@@ -1,0 +1,30 @@
+body {
+    color: black;
+    background-color: whitesmoke
+}
+div {
+    margin: 0px  auto;
+    display: inline-block list-item;
+}
+.pan   {
+    background-color: #c99148;
+    min-height: 3.5rem;
+    width: 26rem
+}
+#panarriba{
+    border-top-left-radius: 4rem;
+    border-top-right-radius: 4rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom: 0.5rem solid orangered
+}
+#panabajo {
+    border-radius: 20px 20px 130px 130px;
+    border-top: 10px solid orangered
+}
+.salchicha {
+    background: radial-gradient(circle, rgba(247, 148, 18, 0.925) 0%, rgba(213,130,28,1) 100%, rgba(252,176,69,1) 100%);
+    min-height: 3rem;
+    width: 30rem;
+    border-radius: 2rem;
+}
